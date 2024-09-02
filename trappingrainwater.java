@@ -26,6 +26,7 @@ n == height.length
 1 <= n <= 2 * 104
 0 <= height[i] <= 105
 
+*/
 class Solution {
     public int trap(int[] height) {
         int left = 0;
